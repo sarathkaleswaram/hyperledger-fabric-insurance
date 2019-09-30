@@ -1,0 +1,12 @@
+/channel-artifacts
+/crypto-config
+/**/crypto
+
+/insurance/certs/**
+
+/insurance/node_modules
+
+/insurance/insurance-peer
+/insurance/shop-peer
+/insurance/repairshop-peer
+/insurance/police-peer
